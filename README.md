@@ -1,2 +1,2 @@
 <h1>Rest Framework & APIs</h1>
-![What is RestAPI](Pics/Rest.png)
+<img src="Pics/Rest" alt="What is Rest API" width="300" />
